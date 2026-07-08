@@ -1,6 +1,6 @@
 ## Hi there , I'm JESSIE👋
 - 🔭 I’m currently working on software development work
-- 🌱 I’m currently learning about web3, solidity, dapp...golang,rust,k8s ...
+- 🌱 I’m currently learning about agent，llm...golang,rust,k8s ...
 - 📫 How to reach me: 
 ✨email： xxxjessiewang@163.com
 ✨ tg：@jessiewang_0914
